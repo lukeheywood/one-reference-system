@@ -74,3 +74,16 @@ The purpose of the reference system is not to appear complete, but to remain **h
 
 *If other parts of ONE are the muscles and nerves,  
 this repository is the mirror.*
+---
+
+## 📚 ONE — Repository Index
+
+- **system-skeletons** → Structural blueprints and allowed system shapes  
+- **contract-stack-examples** → Formal invariants and governance constraints  
+- **one-reference-system** → System inspection and explainability anchor  
+- **ai-workflow-engine** → Governed, artifact-producing execution pipelines  
+- **system-diagnostics** → Mapping and drift-detection patterns  
+- **ask-and-memory-patterns** → Grounded retrieval and answerability design
+
+This index exists for orientation only.  
+Each repository remains independently scoped and truth-aligned.
