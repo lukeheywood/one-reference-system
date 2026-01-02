@@ -44,6 +44,29 @@ It does not decide what to do — it reports what *is*.
 
 ---
 
+## 🧠 Explainability as a system property
+
+In ONE, explainability is treated as an engineering property — not documentation quality and not model interpretation.
+
+A system is considered explainable if it can deterministically answer, using inspectable artifacts (not human memory):
+
+- what exists
+- what ran
+- what changed
+- what is assumed
+- what is unknown
+
+This repository exists to make those answers explicit and reproducible.
+
+AI is not used here to infer meaning from opaque state.
+AI is only effective once system truth is already surfaced through inspection.
+
+See:
+- [`reference/system-explainability.md`](./reference/system-explainability.md)
+- [`reference/ai-augmentation-readiness.md`](./reference/ai-augmentation-readiness.md)
+
+---
+
 ## 🧱 Role within ONE
 
 Within the broader ONE system, this repo functions as:
